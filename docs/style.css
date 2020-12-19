@@ -1,0 +1,22 @@
+.p{
+    font-family: 'Roboto Light', sans-serif;font-size:70px;
+    vertical-align:top;
+
+}
+.carousel-caption{
+    vertical-align:top;
+    margin:200px 100px;
+    font-size: 70px;
+}
+.button {
+    background-color: white;
+    border: none;
+    text-decoration-color: black;
+    padding: 5px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
